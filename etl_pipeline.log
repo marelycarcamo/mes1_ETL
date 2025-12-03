@@ -1,0 +1,45 @@
+2025-12-03 14:49:45,098 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:49:45,130 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:49:45,271 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:52:09,743 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:52:09,760 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:52:09,889 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:52:39,181 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:52:39,203 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:52:39,246 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:54:38,553 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:54:38,559 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:54:38,612 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:54:54,866 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:54:54,868 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:54:54,870 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:56:35,821 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:56:35,896 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:56:36,146 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:56:57,495 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:56:57,498 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:56:57,504 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:57:07,391 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:57:07,393 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:57:07,395 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 14:57:08,794 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 14:57:08,795 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 14:57:08,800 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 15:00:13,944 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 15:00:13,964 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 15:00:14,052 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 15:00:51,203 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 15:00:51,204 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 15:00:51,206 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 15:03:39,516 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 15:03:39,535 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 15:03:39,646 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 15:05:02,476 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 15:05:02,480 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 15:05:02,510 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 15:05:58,972 - etl_pipeline - INFO - === INICIANDO PIPELINE ETL ROBUSTO ===
+2025-12-03 15:05:58,973 - etl_pipeline - INFO - Intento de extracción #1
+2025-12-03 15:05:58,974 - etl_pipeline - INFO - Extracción exitosa: 100 registros
+2025-12-03 15:05:58,979 - etl_pipeline - ERROR - === PIPELINE ETL FALLÓ ===
+2025-12-03 15:05:58,981 - etl_pipeline - ERROR - Duración hasta fallo: 0 days 00:00:00.002489
+2025-12-03 15:05:58,983 - etl_pipeline - ERROR - Error: 'RobustETLPipeline' object has no attribute 'transform_with_validation'
